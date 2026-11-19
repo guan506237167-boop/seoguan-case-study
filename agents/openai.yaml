@@ -1,0 +1,4 @@
+interface:
+  display_name: "关山阅·企业案例整理助手"
+  short_description: "将项目记录整理成背景、问题、行动、结果和证据清晰的真实案例。适用于企业内容与交付复盘，不虚构成功结果。"
+  default_prompt: "使用 $seoguan-case-study，根据我提供的材料完成企业案例整理助手，保留证据与未确认项。"
